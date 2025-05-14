@@ -1,4 +1,3 @@
-# Mục lục
+# Table of contents
 
-* [Giới thiệu](README.md)
-* [Kế hoạch tổ chức đội phát triển](docs/team-organization.md)
+* [Team Organization](README.md)
